@@ -1,0 +1,67 @@
+
+
+.text-d-none{
+    text-decoration: none;
+}
+
+.actine{
+    background-color: green !important;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th{
+    background-color: green;
+    padding: 10px 15px;
+    color: white;
+    text-align: center;
+    border: 1px solid green;
+}
+
+td{
+    border: 1px solid green;
+    padding: 10px 15px;
+    color: black;
+    text-align: center;
+}
+
+.b-shadow{
+    box-shadow: 0 0 5px black;
+}
+
+.mb-black{
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.bor-black{
+    border: 1px solid black;
+}
+
+.bor-green{
+    border: 1px solid #82B440;
+}
+.bg-color{
+    background-color: #82B440;
+}
+
+.css_client_user{
+    background-color: #82B440;
+    border-radius: 5px;
+    color: white;
+}
+
+.logo_home{
+
+    height: 100%;
+    background-color: #82B440;
+    padding:0 20px;
+
+}
+
+.breadcrumbs{
+	background-image: url('https://ss-images.saostar.vn/pc/1603185847465/tumblr_768a1acb66e1562eb3f4b4b7c384a846_692d4971_500.gif');
+}
